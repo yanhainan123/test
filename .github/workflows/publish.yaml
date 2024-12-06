@@ -9,6 +9,8 @@ on:
 
 jobs:
   test-tauri:
+    permissions:
+      contents: write
     strategy:
       fail-fast: false
       matrix:

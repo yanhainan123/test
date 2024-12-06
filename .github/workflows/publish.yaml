@@ -1,6 +1,10 @@
 name: "test-on-pr"
 
-on: [pull_request]
+on:
+  push:
+    tags:
+      - "v*"
+  workflow_dispatch:
 
 
 jobs:

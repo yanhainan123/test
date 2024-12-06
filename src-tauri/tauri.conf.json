@@ -32,7 +32,7 @@
     "updater": {
       "active": true,
       "dialog": true,
-      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEJBNTM2NjZENURCRkFBQTYKUldTbXFyOWRiV1pUdWwxSzJBalhqTW5IOFVEdVpRQ0R6Z1lIb3F5ejQ0dmM1TGxwUXhrNkt1SlEK",
+      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IENCODQ1MDlDODczQjE5RTcKUldUbkdUdUhuRkNFeTFDc0M4WW5OM3VJbzR0QVJOT0pKTEJBUEprdFdlQ2huS1QvUGZ5MUM4TFQK",
       "endpoints": ["https://github.com/yanhainan123/test/releases/latest/download/latest.json"],
       "windows": {
         "installMode": "passive"

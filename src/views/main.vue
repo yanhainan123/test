@@ -21,7 +21,7 @@
       style="overflow: hidden"
     />
   </n-config-provider> -->
-  <h1 style="display: flex;flex-direction: column;justify-content: center;align-items: center;">0.1.1</h1>
+  <h1 style="display: flex;flex-direction: column;justify-content: center;align-items: center;">0.1.2</h1>
 </template>
 
 <script setup lang="ts">

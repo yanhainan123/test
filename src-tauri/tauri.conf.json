@@ -33,7 +33,7 @@
       "active": true,
       "dialog": true,
       "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDExM0NFNUYwMUMwMjQ5NDEKUldSQlNRSWM4T1U4RWNUOHRaaG1ldzFoZ2lFQ2lCNWlPRHVqbUd3a2YwVndGY0JEM1lJaEVRM0EK",
-      "endpoints": ["https://github.com/yanhainan123/test/releases/latest/download/latest.json"],
+      "endpoints": ["https://github.com/yanhainan123/test/releases/download/main/latest.json"],
       "windows": {
         "installMode": "passive"
       }
